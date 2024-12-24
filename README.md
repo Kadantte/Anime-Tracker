@@ -1,19 +1,15 @@
-<p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=15id50RkDQplGHQLVoLKVSX-J6H43iyIS" alt="logo" />
-</p>
-
 <h1 align="center">
     Anime-Tracker
 </h1>
 
 <p align="center">
- <img src="https://img.shields.io/github/stars/Bit-Tech-Team/Anime-Tracker?style=social" />
- <img src="https://img.shields.io/github/forks/Bit-Tech-Team/Anime-Tracker?style=social" />
- <img src="https://img.shields.io/github/v/release/Bit-Tech-Team/Anime-Tracker" />
- <img src="https://img.shields.io/github/downloads/Bit-Tech-Team/Anime-Tracker/total?color=blue" />
- <img src="https://img.shields.io/github/issues-closed-raw/Bit-Tech-Team/Anime-Tracker" />
- <img src="https://img.shields.io/github/issues-raw/Bit-Tech-Team/Anime-Tracker" />
- <img src="https://img.shields.io/github/issues-pr-closed-raw/Bit-Tech-Team/Anime-Tracker" />
+ <img src="https://img.shields.io/github/stars/cosmo-frameworks/animetracker?style=social" />
+ <img src="https://img.shields.io/github/forks/cosmo-frameworks/animetracker?style=social" />
+ <img src="https://img.shields.io/github/v/release/cosmo-frameworks/animetracker" />
+ <img src="https://img.shields.io/github/downloads/cosmo-frameworks/animetracker/total?color=blue" />
+ <img src="https://img.shields.io/github/issues-closed-raw/cosmo-frameworks/animetracker" />
+ <img src="https://img.shields.io/github/issues-raw/cosmo-frameworks/animetracker" />
+ <img src="https://img.shields.io/github/issues-pr-closed-raw/cosmo-frameworks/animetracker" />
 </p>
 
 ## Introduction
